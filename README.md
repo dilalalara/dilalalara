@@ -8,5 +8,5 @@
     <li>gezmek</li>
     <li>at binmek</li> <!-- son günlerde çok masraflı -->
 </ul>
-<h4>Dennis Işık</h4>
+<h4>Dışk</h4>
 <p>Canım erkek arkadaşım iyi ki varsın. dünya sensiz eksik kalırdı.</p>
