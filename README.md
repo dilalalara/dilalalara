@@ -1,4 +1,4 @@
-<h1>Duygu Dağdeviren</h1> <!-- heyy burda beni kimse göremez -->
+<h1>Dilara BIREN</h1> <!-- heyy burda beni kimse göremez -->
 <h2>Hakkımda</h2>
 <p>Merhaba ben Dilara.Aslen Şehir Plancısıyım. Erkek arkadaşımın baskısıyla yazılıma yöneldim. şaka şaka.</p>
 <h3>Hobilerim</h3>
